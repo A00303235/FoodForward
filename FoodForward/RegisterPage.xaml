@@ -6,7 +6,7 @@
     NavigationPage.HasNavigationBar="False">
     <!--<Grid
         BackgroundColor="#1C375C"
-        HorizontalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand"     
         VerticalOptions="FillAndExpand">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
